@@ -1,2 +1,3 @@
 # apnacollege
-frst git repository 
+first git repository 
+Author Smit Patel 
